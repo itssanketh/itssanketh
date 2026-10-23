@@ -17,5 +17,108 @@
 
 
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img" aria-label="Animated cool polar bear in sunglasses">
+  <defs>
+    <linearGradient id="night" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#262c4a"/>
+      <stop offset="1" stop-color="#524f74"/>
+    </linearGradient>
+    <linearGradient id="fur" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e3eaf2"/>
+      <stop offset="0.35" stop-color="#f7f9fc"/>
+      <stop offset="1" stop-color="#eef2f7"/>
+    </linearGradient>
+    <linearGradient id="lens" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#555b78"/>
+      <stop offset="1" stop-color="#14151f"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="400" height="400" rx="28"/></clipPath>
+    <clipPath id="lenses">
+      <path d="M108 178 L188 178 Q194 178 192 188 Q186 218 156 218 Q116 218 108 190 Z"/>
+      <path d="M212 188 Q210 178 216 178 L296 178 Q302 190 294 190 Q284 218 244 218 Q214 218 212 188 Z"/>
+    </clipPath>
+    <filter id="soft"><feGaussianBlur stdDeviation="2.5"/></filter>
+    <style>
+      .bob   { animation: bob 4s ease-in-out infinite; }
+      .glint { animation: glint 5s ease-in-out infinite; }
+      .win   { animation: flick 6s ease-in-out infinite; }
+      .snow  { animation: fall linear infinite; }
+      .ear   { animation: twitch 6s ease-in-out infinite; transform-box: fill-box; transform-origin: 50% 90%; }
+      @keyframes bob    { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+      @keyframes glint  { 0%,35% { transform: translateX(-100px); } 75%,100% { transform: translateX(280px); } }
+      @keyframes flick  { 0%,100% { opacity: .9; } 50% { opacity: .55; } }
+      @keyframes twitch { 0%,88%,100% { transform: rotate(0deg); } 92% { transform: rotate(-10deg); } 96% { transform: rotate(4deg); } }
+      @keyframes fall   { from { transform: translateY(-30px); } to { transform: translateY(430px); } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="400" height="400" fill="url(#night)"/>
+
+    <!-- city -->
+    <g filter="url(#soft)">
+      <rect x="-10" y="120" width="110" height="300" fill="#3a3a58"/>
+      <rect x="290" y="90" width="130" height="330" fill="#35354f"/>
+      <rect x="230" y="190" width="70" height="230" fill="#403f5e"/>
+      <g class="win" fill="#f3c46b">
+        <rect x="20" y="150" width="22" height="28"/>
+        <rect x="55" y="200" width="22" height="28"/>
+        <rect x="320" y="120" width="26" height="32"/>
+        <rect x="360" y="180" width="26" height="32"/>
+        <rect x="245" y="220" width="18" height="24"/>
+      </g>
+    </g>
+
+    <!-- snow -->
+    <g fill="#fff" opacity="0.8">
+      <circle class="snow" cx="50"  cy="0" r="2.5" style="animation-duration:8s;  animation-delay:0s"/>
+      <circle class="snow" cx="120" cy="0" r="2"   style="animation-duration:10s; animation-delay:-4s"/>
+      <circle class="snow" cx="200" cy="0" r="3"   style="animation-duration:9s;  animation-delay:-6s"/>
+      <circle class="snow" cx="270" cy="0" r="2"   style="animation-duration:11s; animation-delay:-2s"/>
+      <circle class="snow" cx="340" cy="0" r="3"   style="animation-duration:8.5s;animation-delay:-5s"/>
+      <circle class="snow" cx="90"  cy="0" r="2"   style="animation-duration:12s; animation-delay:-8s"/>
+      <circle class="snow" cx="310" cy="0" r="2.5" style="animation-duration:9.5s;animation-delay:-3s"/>
+    </g>
+
+    <g class="bob" stroke-linecap="round" stroke-linejoin="round">
+      <!-- ears -->
+      <g class="ear">
+        <circle cx="128" cy="96" r="26" fill="url(#fur)" stroke="#1d1d26" stroke-width="4"/>
+        <circle cx="128" cy="99" r="12" fill="#cfd9e5"/>
+      </g>
+      <circle cx="272" cy="96" r="26" fill="url(#fur)" stroke="#1d1d26" stroke-width="4"/>
+      <circle cx="272" cy="99" r="12" fill="#cfd9e5"/>
+
+      <!-- body -->
+      <path d="M12.0 430.0 C12.6 425.2 14.5 408.7 15.5 401.0 C16.5 393.3 16.8 390.0 18.0 384.0 C19.2 378.0 20.7 371.5 22.5 365.0 C24.3 358.5 26.8 351.5 29.0 345.0 C31.2 338.5 33.9 332.5 36.0 326.0 C38.1 319.5 39.8 312.5 41.3 306.0 C42.8 299.5 43.7 293.5 45.1 287.0 C46.5 280.5 47.9 273.5 49.5 267.0 C51.1 260.5 53.3 254.5 54.9 248.0 C56.5 241.5 57.7 234.5 59.2 228.0 C60.6 221.5 61.7 215.4 63.6 209.0 C65.5 202.6 68.2 196.0 70.7 189.5 C73.1 183.0 75.7 176.6 78.3 170.0 C80.9 163.4 85.1 153.3 86.4 150.0 C106.4 100.0 154 72 200 72 C246 72 293.6 100.0 313.6 150.0 C315.0 153.3 319.1 163.4 321.7 170.0 C324.3 176.6 326.9 183.0 329.3 189.5 C331.8 196.0 334.5 202.6 336.4 209.0 C338.3 215.4 339.4 221.5 340.8 228.0 C342.2 234.5 343.5 241.5 345.1 248.0 C346.7 254.5 348.9 260.5 350.5 267.0 C352.1 273.5 353.5 280.5 354.9 287.0 C356.3 293.5 357.2 299.5 358.7 306.0 C360.2 312.5 361.9 319.5 364.0 326.0 C366.1 332.5 368.8 338.5 371.0 345.0 C373.2 351.5 375.7 358.5 377.5 365.0 C379.3 371.5 380.8 378.0 382.0 384.0 C383.2 390.0 383.5 393.3 384.5 401.0 C385.5 408.7 387.4 425.2 388.0 430.0 Z" fill="url(#fur)" stroke="#1d1d26" stroke-width="4"/>
+
+      <!-- face depth (no mouth) -->
+      <ellipse cx="200" cy="256" rx="44" ry="30" fill="#e6edf5" opacity="0.8"/>
+
+      <!-- tapered arm lines that run off the bottom edge -->
+      <path d="M88.3 335 L75.2 416 L79.0 416.4 L88.0 335 Z" fill="#1d1d26"/>
+      <path d="M311.7 335 L324.8 416 L321.0 416.4 L312.0 335 Z" fill="#1d1d26"/>
+
+      <!-- sunglasses -->
+      <path d="M192 192 Q200 184 208 192" fill="none" stroke="#111" stroke-width="4"/>
+      <path d="M108 178 L188 178 Q194 178 192 188 Q186 218 156 218 Q116 218 108 190 Z" fill="url(#lens)" stroke="#111" stroke-width="3.5"/>
+      <path d="M212 188 Q210 178 216 178 L296 178 Q302 190 294 190 Q284 218 244 218 Q214 218 212 188 Z" fill="url(#lens)" stroke="#111" stroke-width="3.5"/>
+      <path d="M108 180 L97 176 M296 180 L307 176" stroke="#111" stroke-width="4" fill="none"/>
+      <path d="M120 186 L136 186 M226 186 L242 186" stroke="#fff" stroke-width="2.5" opacity="0.35" fill="none"/>
+      <g clip-path="url(#lenses)">
+        <polygon points="140,170 168,170 138,225 110,225" fill="#fff" opacity="0.14"/>
+        <polygon points="244,170 272,170 242,225 214,225" fill="#fff" opacity="0.14"/>
+        <polygon class="glint" points="90,168 118,168 88,228 60,228" fill="#fff" opacity="0.5"/>
+      </g>
+
+      <!-- nose -->
+      <ellipse cx="200" cy="248" rx="14" ry="10" fill="#111"/>
+      <ellipse cx="195" cy="245" rx="4" ry="2.2" fill="#fff" opacity="0.35"/>
+    </g>
+
+    <text x="200" y="392" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#1d1d26" letter-spacing="1">@itssanketh</text>
+  </g>
+</svg>
+
 
 
