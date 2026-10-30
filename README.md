@@ -13,41 +13,106 @@
   <img src="./polar-bear-v13.svg" width="300" alt="Cool polar bear" />
 </p>
 
-
-```
+'''
 BBWBBBBBBBBWMWWKeeKXMWMMWBBBBBBBBBWMXeeeeKKKeeeeeeeeXWBWWWWWWWWBWMMMMM
-BBWBBBBBBBBMMMWKeXKoxoMWWBBBBBBBBBBMMeaKKoxoKeeeKKXMWBBWWWWWWWWBWMMMMM
-BWWBBBBBBBBMMMMeKei   iWBBBBBWWWWBBWWWWMi   xWXMMMWMMWBWWWWWWWWBMXMMXX
-BBWBBBBBBBBMXMMaXx     ixliii    iiiixxoooxilBXMMMMMMWBWWWWWWBBBWWWWWW
-WWWBBBBBBBBMXMMKMXl                       lxaWWMMMMMMWBWWWBBBBBBWBWMMM
-WWWBBBBBBBBMMXWWKoi                          iaMWMMMMWBWWWBBBBBBWWXKKK
-MMWBBBBBBBBMXWXxi                              iKWMMMBBWWWBBWBBBWWKeee
-MMWBBBBBBBBXMeii                                 xWMMBBWWWBBWBBBBWKaae
-MMWBBBBBBBBBeii                                   iMWBBWWWBBWBBBBWKaee
-MMWBBBBBBBBeii                       ilxxxxxxxxxll  MBBWWWWBBBBBBBKoae
-MMWBBBBBBBa i   lKXMWWMMMMMWWWWXi   XBBBBBBBBBBBBBWKaBBWWWWBWBBBBBKoae
-BBWBBBBBBK l oMWBBBBBBWWWWBBBBBBallxBBBWWWWWBBBBBBBXixBWWWWBBBBBBWMKKX
-BBWBBBBBWiii  iiaBBBWWWWWBBBBBBBi   WBBWWWWBBBBBBBX   eBWWBBBBBBWXMMMM
-BBWBBBBBoii      KBBWWWBBBBBBBBx  ilaKKXWBBBBBBBBe     BBWWBBBBBWXXXXX
-BBWBBBBK i        xKMBBBBBBBBXi  iaKKeeallaXBBXai      KBWBBWWBBWXXXXX
-BBWBBBWli            loaeaoxi    KBBBBBBx   lai        lBWWBBBBBWKKKKK
-BBWBBBaii                         lxxxxi      ai        XBWWWWWBWKKKKK
-BWWBBMii                                      la        oBWWWWWBWKKKKK
-WWWBBoi                                       ie         BBBBBBBBBBBBB
-BBBBXii                                       xa         XBBBBBBBBBBBB
-BBBBxi                                        l          oBBBBBBBBBBBB
-BBBXii                                                    WBBBBBBBBBBB
-BBBxi                                                     eBBBBBBBBBBB
-BBXii                                                     xBWWWMWBBBBB
-BBli                                                       WWBBBWBBBBB
-BKii                                                       eXMBWBBBBBB
-Bxi                                                         MWMMWBBBBB
-Xii                                                         xBXMBBBBBB
-oii                                                          oBMBBBBBB
-ii                                                            oBBBBBBB
-i                                                              oBBBBBM
-                                                                aBBBBK
-                                                                 KBBWK
-            al                                       la           KBXK
-           le                                         Ki           WKK
-```
+WBBBWWWWBBBBBBBBBBBBBBBBBBBBBBBWMMMMMMMWWWMKKKeeeeeeeeeeKKKXMMMMMMMWWMMWBBBBBBBBBBBBWWBBBBBBBBBBBMMMMXMXeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeKKMWWWWWWWWWWWWWWWWWWWWWWWWWWWWWBWMMXXXXMXXXXXXXXX
+MBBBWWWWWWWBBBBBBBBBBBBBBBBBBBBWMMMMMMMMWWXXKeeeeeeeeeeeeKKXMMMMMMMMWMMWBBBBBBBBBBBBWWBBBBBBBBBBBWMMMXMWKeeeeeeeeeeeeeeeaaeeeeeeeeeeeeeeeeeeeeeeeeeeeKMWWBWWWWWWWWWWWWWWWWWWWWWWWWWWWWBWMXXXXXXXXXXXXXXX
+MWBWWWWWWWWWWBBBBBBBBBBBBBBBBBBWMMMMMMMMWMXKKeeeeeeeeeeKKXMWWWMXXXMMWMMBBBBBBBBBBBBBWWBBWBBBBBBBBBWMMMMWMeeeeeeeeeeeaeKXXMMXKeeeeeeeeeeeeeeeeeeeeeeKXMWWWBBWWWWWWWWWWWWWWWWWWWWWWWWWWWBWMMXXXXXXXXXXXXXX
+MWBWWWMWWWWWWWWBBBBBBBBBBBBBBBBWMMMMMMMMWMXKeeeeeeeeKMWMMMKeXWBWMMMMWMMBBBBBBBBBBBBBWWBBWBBBBBBBBBBMMMMWWKeeeeeeeeeKMWMXeeKMWBXeeeeeeeeeeeeeeeeeeeXMMMMMWBBWWWWWWWWWWWWWWWWWWWWWWWWWWWBWMXMMXXXXXXXXXXXM
+MWBWWWMWWWWWWWWBBBBBBBBBBBBBBBBWMMMMMMMMWMMKKeeeeeXWMeoli    ioMBWMMWMMBBBBBBBBBBBBBWWBWWBBBBBBBBBBWMMMMWXeeeeeeaKWBXoli    iaWWeaeeeeeeeeeeeeeKXMMMMMMMWBBWWWWWWWWWWWWWWWWWWWWWWWWWWBBWMMMXXXXXXXXXXXXX
+MWBWWWMWWWWWWWWBBBBBBBBBBBBBBBBWMMMMMMMMMMMXKKKKKWBelii         KBBWWMMBBBBBBBBBBBBBWWBWWBBBBBBBBBBBMMMMWMKeeeeeKBMoiii       iMBeaeeeeKKKXXXMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWWWWWBBWXXXXXXXXXXXXXXXX
+MWBWWWMWWWWWWWBBBBBBBBBBBBBBBBBWMMXMMMMMMMXKeeeeXWoiiii          eBBWMMBBBBBBBBBBBBBWWWWWBBBBBBBBBBBWMMMMBWXKKKXBMliii         xBWXXXXMMMMMMMMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWWWWWWBWXXXXXXXXXXXXXXXX
+MWBWWMMWWWWWWWBBBBBBBBBBBBBBBBBWMMXXXXMMMMKeeaaeBeiiiii           MBWXMBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBWWMMWWMMMMBBxiii          iBBMMMXXMMMMMMMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWWWWWWBWXXXXXXXXXXXXXXXX
+MBBWWMMWWWWWWWWBBBBBBBBBBBBBBBBWMXXXXXMMMMKeeaaXBoiiiii           lBBBBBBBBWMMMMMXKeaaaooooaaeeKXMMMMMMMWBBBBBBBMxli            WBMXMXXXXMMMMMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWWWWWBBWXXXXXXXXXXXXXXXX
+MWBWWMMMWWWWWWWWBBBBBBBBBBBBBBBWMXXXXXXMMXKeaaeMWxiiiii            lxxxxxli                              ilxxxaKXMWMexi         WBWXXXXMMMMMMMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWWWWWBBWXMMMMMMMMMMMMMMM
+MWBWWWMMWWWWWWWWBBBBBBBBBBBBBBBWMXXXXXXMMMKeeaeWWxliiii                                                           loKMWMKoi     WBMXXXXMMMMMMMXMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWWWWWBBWWBBWMMWWBBBBBBBBBWWW
+XWBWWWMMWWWWWWWWBBBBBBBBBBBBBBBWMXXXXXXMWMKeeaeWBxiiiiii                                                              ixeMWWKxi WBXXMXXXXMMMMMMMMMMMMMMMMBBWWWWWWWWWWWWWWWWWWBBBBBBWWBBWMWWWBBBBBBBBBBBB
+XWBWWMMWWWWWWWWWBBBBBBBBBBBBBBBWMXXXXXMMWMKKeeeXBellliii                                                                  ixKMWWBWXXXXXXXMXXXMMMMMMMMMMMMBBWWWWWWWWWWWWWWWBBBBBBBBBWWBBWMWWWMMMMMMXMMMMW
+XMWWWMMMWWWWWBBBBBBBBBBBBBBBBBBWMXXXXXMMWMXXKeeeBBWMelii                                                                      ioXBBWXXXXXMXXMMMMMMMMMMMMMBBWWWWWWWWWWWWWBBBBBBBBBBBWWBBWMWBWMMXXXXKKKKKX
+XMBWWMMMWWWWWWBBBBBBBBBBBBBBBBBWMXXXXXMMWWMMMXXWBWKolili                                                                         ieWBWMXXMMMMMMMMMMMMMMMWBBWWWWWWWWWWWWBBBBBBBBBBBBWWBBWMWBWMXXXXXKKKKKK
+XWBWWMMMWWWWWWWWBBBBBBBBBBBBBBBWMXXXXXXXMMWMWBBMaliiiii                                                                             aWBWXXMMMMMMMMMMMMMMWBBWWWWWWWWWWWWBBBBBBBBBBBBWWBBWMWBWMXXXXKKKKKKK
+WWWWWMMMWWWWWWWBBBBBBBBBBBBBBBBWMXXXXXXXXXMWBXoliiliii                                                                                eBBMXXMMMMMMMMMMMMWBBWWWWWWWWWWWWBBBBWWBBBBBBWWBBWMWBWMXKKKKeeeeeK
+MMWWMMMWWWWWWWWBBBBBBBBBBBBBBBBWMMMMMMMMMWBMalilliii                                                                                   iKBBMXMMMMMMMMMMMWBBWWWWWWWWWWWWWBBWWWWBBBBBWWWBWMWWWMXKKeeeeeeee
+XXMMMMMWWWWWWBWWBBBBBBBBBBBBBBBWMXXXXXXMBBelillliii                                                                                      xMBWMXMXMMMMMMMWBBWWWWWWWWWWWWWBBWMWWWBBBBWWWWWMMWWXKeeeeaeaeee
+XXXXMMMWWWWWWWWWBBBBBBBBBBBBBBBWXKKKKKMBMoilliiii                                                                                          eBBMXXXMXMMMMWBBWWWWWWWWWWWWWBBWWWWWBBBBWWBBWMWBWXKeeaaaaaeee
+XXXMMMMWWWWWWWWWBBBBBBBBBBBBBWWMXKKKKWBKliliiiii                                                                                            lMBWMXMMMMMMWBBWWWWWWWWWWWWWBBWWWWWBBBBWWWBWMWBWXKeeaaaaaaee
+XXXMMMMWWWWWWWWWBBBBBBBBBBBWWWWMXKKXWBailiiiiii                                                                                               eBBMXMMMMWWBBWWWWWWWWWWWWWBBWWWWWBBBBWWBBWWMWWXKeaaaaaeeeK
+XXXMMMMWWWWWWWWWBBBBBBBBBBBWBBBWXXXBBoiiiiiiii                                                                                                 oBBMXMMMWWBBWWWWWWWWWWWWWBBWWWWWWBBBBWBBBWWWWXKeeaaaaeeeK
+XXXMMMMWWWWWWWWWBBBBBBBBBBBBBWWWMMBBoiliiiiii                                                                                                   lWBMMMMMWBBWWWWWWWWWWWWWBBWWWWWBBBBBBBBBWWWWXKeeeeeeeeeK
+XXMMMMMWWWWWWBWBBBBBBBBBBBBBBWWWWBBoiiiiiiii                                                                                                     lMBWMMWWBBWWWWWWWWWWWWWWBWWWWWBBBBWWBBBWWWWXKeeeeaaeeeK
+XXXMMMMWWWWWWWWWBBBBBBBBBBBWBBBBBBoilliiiii                                                                                                       iXBWMWWBBWWWWWWWWWWWWWWBBWWWWBBBBWWBBBWWWBMKeaaaaaaaeK
+XXXMMMMWWWWWWWWBBBBBBBBBBBBBBBBBBoilllllii                                                                                                          MBBWBBBWWWWWWWWWWWWWWWBWWWWBBBBBWBBBWWWWMKaaaoaaaaee
+XXXMMMMWWWWWWWWBBBBBBBBBBBBBBBBBoillliiii                                                                      illllllllllllllllllllllllllii        iWBBBBBWWWWWWWWWWWWWWWBWWWWBBBBWWBBBWWWWMKaaooooaaee
+XXXMMMMMWWWWWBWBBBBBBBBBBBBBBBBoilliiiii                  illllllllllxxxxxxxxxxxxxllllli                leKXXMWBBBBBBBBBBBBBBBBBBBBBBBBBBBBBWMXKa    lBBBBBWWWWWWWWWWWWWWWBWWWWBBBBWWBBBWWWWMKeaoooaaaae
+XXXMMMMMWWWWWBWWBBBBBBBBBBBBBWxiliiiiii          xaeKKKXMWBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBWXl           xBBBBBBBBBBBBWWWWWMMWMMMMMMWWBBBBBBBBBBBBBWal  oBBBBWWWWWWWWWWWWWWWBWWWWBBBBBWBBBWWWWMKaaaooaaaae
+MMMMMMMMWWWWWWWWBBBBBBBBBBBBBoiiiiiiii         oWBBBBBBBBBBBBBBWWWWMWMMMMMMWWWBBBBBBBBBBBBBM           MBBBBBBBBBBBWMMMMMMMMMMMMMWBBBBBBBBBBBBBBBBBBWKiaBBBWWWWWWWWWWWWWWWBWWWWBBBBWBBBBWWWWMKeaaaaaaaae
+BWWWWMMMWWWWWWWWBBBBBBBBBBBBaililliii    iloaKMBBBBBBBBBBBBBBBWWMMMMMMMMMMWWWBBBBBBBBBBBBBBB          iBBBBBBBBBBBWWMMMMMMMMWWWMWBBBBBBBBBBBBBBBBBBBBBo KBBWWWWWWWWWWWWWWWBWWWWBBBBBWBBBWWWWMXeeaaaaaaee
+BBBBBMMMWWWWWWWWBBBBBBBBBBBKiliiiiii  xKMBBBBBBBBBBBBBBBBBBBWWWMWWMMWMWWWWWWBBBBBBBBBBBBBBBBexxxxxxxxxeBBBBBBBBBWWWWWWWMMMMMWWWBBBBBBBBBBBBBBBBBBBBWel   MBWWWWWWWWWWWWWWWBWWWWBBBBWWBBBWMWWWMXKeeeeeeKK
+BBBBBMMWWWWWWWWWBBBBBBBBBBMllliiiii  iWBBBBBBBBBBBBBBBBBBBBWWMWMWMWWWWWWWWBBBBBBBBBBBBBBBBBBXaaaaaaaaaKBBBBBBBBWWWWWWWMMMMMMWWBBBBBBBBBBBBBBBBBBBBa      lBBWWWWWWWWWWWWWWBWWWWBBBBBBBBBWMMWMMMXXKKKXXXX
+BBBBBMMWWWWWWWWWWBBBBBBBBWxiiiiiii     xooaaaaeBBBBBBBBBBBWWMMWWWWMWWWWWWBBBBBBBBBBBBBBBBBBW          iBBBBBBWWWWMMWMMMMWMWWWBBBBBBBBBBBBBBBBBBBBX        oBBWWWWWWWWWWWWWBBBBBBBBBBBBBBMMMMMMMMMMXMMMMM
+BBBBBMMWWWWWWWBWBBBBBBBBBailiiiii              KBBBBBBBBBWWMMWWMWMMWWWMWBBBBBBBBBBBBBBBBBBBe           WBBBBWWMMMMWWMMMMWWWBBBBBBBBBBBBBBBBBBBBBBi         eBBWWWWWWWWWWWBBBBBBBBBBBBBBBMXXXXXMXXXXMXXXX
+BBBBBMMWWWWWWWWBBBBBBBBBMliliiiii              eBBBBBBBWWWWMMWWMMMMWMWWBBBBBBBBBBBBBBBBBBBBi           eBBBWWWWWWMMMMMMWMWBBBBBBBBBBBBBBBBBBBBBBx           WBWWWWWWWWWWBBBBBBBBBBBWWBBBMXXXXXXXXXXXXXXX
+BBBBBMMWWWWWWWWBBBBBBBBBxiiiiiii               iMBBBBBWWWMMMMMMMWWWWWBBBBBBBBBBBBBBBBBBBBBo             XBBMMMMMMMMMMWMWWBBBBBBBBBBBBBBBBBBBBBWx            oBBWWWWWWWWWWBBBBBBBWWWWWBBBMXXXXXXXXXXXXXKK
+BBBBBMMWBWWWWWWBBBBBBBBeiliiiii                  KBBBWWWMMMMMMMMWWWWBBBBBBBBBBBBBBBBBBBBBa       lKXXKKeXBBBBBBBBWWMMMMWBBBBBBBBBBBBBBBBBBBBBe               WBBWWWWWWWWWWWWBWWWWWWWWBBBMXXXXXXXXXXXKKKK
+BBBBBMMWBWWWWWWWBBBBBBXiliiiiii                   oWBBWMMMMMMMMMWWBBBBBBBBBBBBBBBBBBBBBWx         illllxxxxxxoaKXMWBBBBBBBBBBBBBBBBBBBBBBBBXl                aBBWWWWWWWWWWWWWWWWWWWWWBBBMXXXXXXXXXXXXKKK
+BBBBWMMWWWWWWWWBBBBBBWxiliiiii                     ieWBBWMMMMMMMWBBBBBBBBBBBBBBBBBBBBBXi                i          lxaKMWBBBBBBBBBBBBBBBBKl                  iBBBWWWWWWWWWWWWWWWWWWWWBBBMXXKKKKXXXXXKKKK
+BBBBWMMWWWWWWWBBBBBBBeiiiiiii                         oXBBBWMMMWBBBBBBBBBBBBBBBBBBBBWo           laKMMWBBBWWMMXeoi       xeMBBBBBBBBBBMai                     KBBWWWWWWWWWWWWWWWWWWWWBBBMXXXXXXKKKKXXKKK
+BBBBWMMWWWWWWWWBBBBBMlliiiiii                           iaXWBBBBBBBBBBBBBBBBBBBBBWKx           lXBBBBBBBBBBBBBBBBBKi        leWBBMXeoi                        lBBBWWWWWWWWWWWWWWWWWWWBBBMXXKKKKKKKKKKKKK
+BBBBWMMWWWWWWWWBBBBBxlliiiii                                xeXWBBBBBBBBBBBBWXKol              WBBBBBBBBBBBBBBBBBBBX           oMKi                            MBBWWWWWWWWWWWWWWWWWWWBBBMXXKKKKKKKKKKKKK
+BBBBWMMWBWBBWWBBBBBKiliiiii                                     ilxxxxoxxlli                   WBBBBBBBBBBBBBBBBBBBo             eWe                           oBBBWWWWWWWWWWWWWWWWWWBBBMXKKKKKKKKKKKKKK
+BBBBWMMWBBBWWBBBBBWxiliiii                                                                     xMBBBBBBBBBBBBBBBWKl               iMXi                         iWBBWWWWWWWWWWWWWWWWWWBBBMXKKKKKKKKKKKKKK
+BBBBWMMWBBWWWWBBBBeiliiii                                                                        ioeKXXXXXKKKeol                    MM                          eBBWWWWWWWWWWWWWWWWWWBBBMXKKKKKKKKKKKKKK
+BBBBWMMWBWBWWWBBBWliiiiii                                                                                                           iBe                         iBBBWWWWWWWWWWWWWWWWWBBWMXKKKKKKKKKKKKKK
+BBBBWMMWBBBWWWBBBaiiiiii                                                                                                             aBi                         XBBWWWWWWWWWWWWWWWWWWBBMXKKKKKKKKKKKKKK
+BBBWWMMWBBBWBWBBXliiiiii                                                                                                             iBK                         xBBWWWWWWWWWWWWWWWWWWBBMXKKKKKKKKKKKKKK
+BBBWWMMWWWWWWBBBoiiiiii                                                                                                               XB                          WBWWWWWWWWWWWWWWWWWWWBMKKKKKKKKKKKKKKK
+BBWWWMMWBWWWWBBXliiiii                                                                                                                KBi                         KBBWWWWWWWWWWWWWWWWWBBWXXXXXXXXMXMMMMM
+MMWWMMMWBWWWBBBxiiiiii                                                                                                                eBl                         xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+XXMMMMMWWWWBBBKiiiiii                                                                                                                 KBi                          WBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+MWBBBBBBBBBBBBxiliii                                                                                                                  MW                           eBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBBeiliiii                                                                                                                 lBe                           oBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBWliiiii                                                                                                                  aBl                           iBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBBaiiiiii                                                                                                                 iWK                             XBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBMliiiii                                                                                                                  io                              xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBBeiliili                                                                                                                                                   WBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBWliliii                                                                                                                                                    eBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBKiliii                                                                                                                                                     iBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBBxlliii                                                                                                                                                      XBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBBeillii                                                                                                                                                       xBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBWliiiii                                                                                                                                                        WBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBBBBBaiiiii                                                                                                                                                         KBBBBBBBWMMMMWWWBWBBBBBBBBBBBBBBB
+BBBBBBBWliiiii                                                                                                                                                         oBBMMWBBBMXXMXMMWWWWBBBBBBBBBBBBB
+BBBBBBBaiiiii                                                                                                                                                          iBBMXXMMWBBMXXXXMMMWBBBBBBBBBBBBB
+BBBBBBMlliiii                                                                                                                                                           MBWMMMXXMBBWMMMMMMWBBBBBBBBBBBBB
+BBBBBBoiiiiii                                                                                                                                                           oBBBBBBWWWWBBWMMMWWBBBBBBBBBBBBB
+BBBBBXiiiiii                                                                                                                                                             WBBBBBBBBWWBBBWMWBBBBBBBBBBBBBB
+BBBBBoiiiii                                                                                                                                                              KBXKXWBBBBWMWBBWWBBBBBBBBBBBBBB
+BBBBXlliiii                                                                                                                                                              lBMooeBMBBWMMWBBWBBBBBBBBBBBBBB
+BBBBxiiiiii                                                                                                                                                               XBeoeWKWBWMMMWBBBBBBBBBBBBBBBB
+BBBKiliiiii                                                                                                                                                               lBWeXMaWWMMMMMWBBBBBBBBBBBBBBB
+BBBxiiiiii                                                                                                                                                                 aBBBMMWMMMMMMWBBBBBBBBBBBBBBB
+BBXlliiiii                                                                                                                                                                  KBBWWMMXXXMMWBBBBBBBBBBBBBBB
+BBoiliiiii                                                                                                                                                                  iWBXXXXXXXMMWBBBBBBBBBBBBBBB
+BWliiiiii                                                                                                                                                                    oBWXXXXXXMMWBBBBBBBBBBBBBBB
+BMlliiiii                                                                                                                                                                     eBWXXXXMMWBBBBBBBBBBBBBBBB
+Beiliiii                                                                                                                                                                       KBWXXXMMWBBBBBBBBBBBBBBBB
+Xliiiiii                                                                                                                                                                        KBWXMMMWBBBBBBBBBBBBBBBB
+lliiiiii                                                                                                                                                                         XBWXMMWBBBBBBBBBBBBBBBB
+liiiiii                                                                                                                                                                           KBWMMWBBBBBBBBBBBBBBBW
+liiiii                                                                                                                                                                             eBBWWBBBBBBBBBBBBBBBX
+iiiii                                                                                                                                                                               eBBBBBBBBBBBBBBBBBWK
+liii                                                                                                                                                                                 KBBBBBBBBBBBBBBBBMe
+iii                                                                                                                                                                                   MBBBBBBBBBBBBBBBXe
+ii                                                                                                                                                                                    iWBBBBBBBBBBBBBWKK
+i                                                                                                                                                                                      lWBBBBBBBBBBBBXKK
+                                                                                                                                                                                        xBBBBBBBBBBBBKKK
+                                                                                                                                                                                         xBBBBBBBBBBMKKe
+                                                                                                                                                                                          aBBBBBBBBBXKKK
+                                                                                                                                                                                           eBBBBBBBBKKKK
+                                    eK                                                                                                                   ll                                 KBBBBBBMKKKK
+                                   lBK                                                                                                                   oBo                                 XBBBBBXKKKK
+                                   MB                                                                                                                     MBl                                 MBBBMKKKKK
+                                  aBa                                                                                                                     xBX                                 lWBBKKKKKX
+                                 lBM                                                                                                                       MBl                                 oBBKKKKKM
+                                 eWx                                                                                                                       xWK                                 xWXeeeeeX
+'''
